@@ -2,7 +2,7 @@ package org.example.implemetation;
 
 import java.util.Scanner;
 
-public class PrintPrime {
+public class O2_PrintPrime {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int low = sc.nextInt();

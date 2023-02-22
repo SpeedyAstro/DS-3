@@ -1,7 +1,8 @@
 package org.example.implemetation;
 
 import java.util.Scanner;
-
+// index value start from end (index start from 1 not 0)
+// last digit from number is index and last index is 1 that's value
 public class O7_InverseNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

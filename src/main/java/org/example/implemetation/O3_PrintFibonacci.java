@@ -5,7 +5,7 @@ public class PrintFibonacci {
         int low = 0, high = 1;
         int fibo = 1;
         System.out.println(low);
-        while (fibo<70){
+        while (fibo < 70) {
             System.out.println(fibo);
             fibo = low + high;
             low = high;

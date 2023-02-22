@@ -8,7 +8,7 @@ import java.util.Scanner;
     3. Take a number "n" as input "t" number of times.
     4. For each input value of n, print "prime" if the number is prime and "not prime" otherwise.
 */
-public class IsPrime {
+class O1_IsPrime {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();

@@ -1,6 +1,6 @@
 package org.example.implemetation;
 
-public class PrintFibonacci {
+public class O3_PrintFibonacci {
     public static void main(String[] args) {
         int low = 0, high = 1;
         int fibo = 1;

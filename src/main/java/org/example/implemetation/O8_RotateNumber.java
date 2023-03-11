@@ -17,6 +17,7 @@ public class O8_RotateNumber {
         System.out.println(r);
         while (r--!=0){
             int div = number%10;
+            System.out.println(number%10);
             number/=10;
             number += div*(int) Math.pow(10,length-1);
         }

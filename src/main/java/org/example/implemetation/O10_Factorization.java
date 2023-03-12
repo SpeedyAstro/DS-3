@@ -2,7 +2,7 @@ package org.example.implemetation;
 
 import java.util.Scanner;
 
-public class X_Factorization {
+public class O10_Factorization {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
